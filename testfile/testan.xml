@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<World>
+	<China>
+		<City id="1" Name="Beijing" />
+	</China>
+	<America>
+		<Wei n="1">HuaDu</Wei>
+	</America>
+</World>

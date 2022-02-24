@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<China cn_id="1" date="182.02.12" product="Chinese-Ese" version="V6.0.5001">
+	<Shus count="3">
+		<Shu id="1" Name="刘备" />
+		<Shu id="2" Name="关羽" />
+		<Shu id="3" Name="张飞" />
+	</Shus>
+	<Weis>
+		<Wei n="1">曹操</Wei>
+		<Wei n="2">曹植</Wei>
+	</Weis>
+	<Wu>
+		<Citys>
+			<City>荆州</City>
+		</Citys>
+		<Wus>
+			<Wu id="1" Name="孙坚" />
+			<Wu id="2" Name="孙策" />
+		</Wus>
+	</Wu>
+</China>
